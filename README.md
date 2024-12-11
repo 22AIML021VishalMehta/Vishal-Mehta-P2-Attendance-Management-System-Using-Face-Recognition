@@ -98,7 +98,7 @@ Contributions are welcome! If you have suggestions for improvements or additiona
 ---
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [MIT](LICENSE) file for details.
 
 ---
 
@@ -111,4 +111,4 @@ Special thanks to the following:
 
 ---
 
-For any questions or issues, feel free to contact **[your email]**.
+For any questions or issues, feel free to contact **22aiml021@charusat.edu.in**.
